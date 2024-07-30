@@ -10,6 +10,8 @@ IMDb Movie Report --> https://lookerstudio.google.com/reporting/5b074dec-e9a3-4f
 
 Star Bakcery Dashboard --> https://lookerstudio.google.com/reporting/1959a6c3-ec5c-4beb-9077-b339878f3813
 
+----------------------------------------------------------------------------------------------------------
+
 Machine Learning Project
 
 Identify Student Learning Abilities(ML) --> https://colab.research.google.com/drive/15uxeB_YH0FzSX0-iNnof3ZDWhJH8wuKG?usp=sharing
@@ -19,6 +21,8 @@ Movie EDA --> https://colab.research.google.com/drive/1QYKsGDJHPKGh-06IN8LxHVou5
 Churn Classification --> https://colab.research.google.com/drive/1SW9QxxMtYtHtU0a_pCcn6FOEKD9xiLRV?usp=sharing
 
 Bicycle Sales --> https://colab.research.google.com/drive/1tgISEolWu0npjnO9hziB32fGLm2vPWsZ?usp=sharing
+
+----------------------------------------------------------------------------------------------------------
 
 Web Programming Project
 
